@@ -1,0 +1,7 @@
+Date: Sun 30 Aug 2026 09:44:54 
+Ligand: CN(C)C1=CC=C(C=C1)C(=C2C=CC(=[N+](C)C)C=C2)C3=CC=CC=C3
+Method: Vina
+Target: cotA_for_swissdock.pdb
+Sampling exhaustivity: 32
+Box size: 22 22 22
+Box center: 25.134 -52.055 52.042

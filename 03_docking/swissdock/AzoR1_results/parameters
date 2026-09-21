@@ -1,0 +1,7 @@
+Date: Sun 30 Aug 2026 09:46:38 
+Ligand: CN(C)C1=CC=C(C=C1)C(=C2C=CC(=[N+](C)C)C=C2)C3=CC=CC=C3
+Method: Vina
+Target: AzoR1_for_swissdock.pdb
+Sampling exhaustivity: 32
+Box size: 16 18 16
+Box center: 15.564 1.717 1.876

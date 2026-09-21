@@ -1,0 +1,15 @@
+receptor = /content/drive/MyDrive/MG_docking_project/02_receptors/prepared_pdbqt/cotA_receptor.pdbqt
+ligand = /content/drive/MyDrive/MG_docking_project/01_ligand/mg_ligand.pdbqt
+
+center_x = 25.134
+center_y = -52.055
+center_z = 52.042
+
+size_x = 22
+size_y = 22
+size_z = 22
+
+exhaustiveness = 32
+num_modes = 20
+energy_range = 4
+seed = 42
