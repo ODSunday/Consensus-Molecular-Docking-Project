@@ -1,0 +1,4 @@
+target,vina_top_centroid,vina_top_closest,smina_top_centroid,smina_top_closest,swissdock_top_centroid,swissdock_top_closest,ensemble_centroid_mean,ensemble_centroid_max,ensemble_closest_mean,ensemble_closest_max
+cotA,7.75,5.98,11.59,8.28,7.39,6.36,9.71,14.68,6.86,10.46
+AzoR1,5.1,0.67,2.02,0.85,5.26,0.9,3.61,6.98,1.72,6.26
+BsDyP,14.0,12.3,14.12,12.35,13.79,12.27,14.3,17.11,11.17,14.92

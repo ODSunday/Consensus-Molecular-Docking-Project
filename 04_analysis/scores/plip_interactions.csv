@@ -1,0 +1,14 @@
+target,interaction,residue,distance_A
+cotA,Hydrophobic,PRO226,3.63
+cotA,Hydrophobic,THR260,3.79
+cotA,Hydrophobic,ILE494,3.43
+cotA,Hydrophobic,ALA227,3.6
+cotA,Hydrophobic,LEU386,3.64
+cotA,Hydrophobic,ARG416,3.57
+AzoR1,Hydrophobic,LEU52,3.56
+AzoR1,Hydrophobic,ILE57,3.71
+BsDyP,Hydrophobic,PRO232,3.54
+BsDyP,Hydrophobic,LEU338,3.8
+BsDyP,Hydrophobic,ARG340,3.73
+BsDyP,Hydrophobic,HIS73,3.6
+BsDyP,Hydrophobic,THR247,3.47

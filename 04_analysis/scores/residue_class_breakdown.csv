@@ -1,0 +1,4 @@
+target,Hydrophobic_count,Hydrophobic_pct,Aromatic_count,Aromatic_pct,Polar uncharged_count,Polar uncharged_pct,Charged_count,Charged_pct,Other_count,Other_pct
+cotA,23,57.5,3,7.5,10,25.0,4,10.0,0,0.0
+AzoR1,12,36.4,8,24.2,8,24.2,5,15.2,0,0.0
+BsDyP,25,39.1,2,3.1,21,32.8,15,23.4,1,1.6

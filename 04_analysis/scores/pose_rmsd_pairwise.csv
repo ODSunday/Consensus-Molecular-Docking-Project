@@ -1,0 +1,10 @@
+target,engine_1,engine_2,rmsd
+cotA,vina,smina_vinardo,0.3992186731482015
+cotA,vina,swissdock_vina,0.5163973070380149
+cotA,smina_vinardo,swissdock_vina,0.37418712098449713
+AzoR1,vina,smina_vinardo,0.250330797356911
+AzoR1,vina,swissdock_vina,0.19705025960482192
+AzoR1,smina_vinardo,swissdock_vina,0.227088386665322
+BsDyP,vina,smina_vinardo,0.021367156077323486
+BsDyP,vina,swissdock_vina,0.19124586328587304
+BsDyP,smina_vinardo,swissdock_vina,0.19879124301085718
