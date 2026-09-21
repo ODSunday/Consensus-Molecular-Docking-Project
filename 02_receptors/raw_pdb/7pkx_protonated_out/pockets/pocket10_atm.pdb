@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0328
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1619
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7127
+HEADER 5  - Mean B-factor of pocket residues  : 0.5486
+HEADER 6  - Hydrophobicity Score              : 2.8750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 353.5492
+HEADER 10 - Pocket volume (convex hull)       : 24.8875
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   3558   NZ LYS A 291      29.800 -20.905 -46.780  0.00  0.00           N 0
+ATOM   3702  NH1 ARG A 300      31.267 -15.771 -43.516  0.39  5.47           N 0
+ATOM   3557   CE LYS A 291      31.198 -20.561 -47.179  0.00  0.00           C 0
+ATOM   3703  NH2 ARG A 300      30.295 -14.146 -44.812  0.46  7.66           N 0
+ATOM   3622  OD1 ASP A 295      28.000 -19.764 -43.129  0.48  3.21           O 0
+ATOM   3801  CE2 PHE A 307      27.122 -16.809 -42.405  0.00  0.00           C 0
+ATOM   3799  CD2 PHE A 307      26.513 -15.623 -42.758  0.00  0.00           C 0
+ATOM   4009    O GLN A 320      23.866 -14.348 -44.275  0.62  9.64           O 0
+ATOM   3623  OD2 ASP A 295      28.680 -21.664 -43.973  0.00  0.00           O 0
+ATOM   4047   CG PRO A 322      23.787 -19.903 -42.352  0.00  0.00           C 0
+ATOM   4008    C GLN A 320      22.694 -14.033 -44.034  0.00  0.00           C 0
+ATOM   4026    O ILE A 321      20.475 -16.877 -42.877  0.39  5.36           O 0
+ATOM   3995    O ASN A 319      19.852 -13.453 -46.481  0.00  0.00           O 0
+ATOM   4048   CD PRO A 322      23.650 -18.436 -42.076  0.00  0.00           C 0
+ATOM   4042    N PRO A 322      22.217 -18.175 -42.304  0.00  0.00           N 0
+ATOM   4025    C ILE A 321      21.655 -16.985 -42.516  0.00  0.00           C 0
+ATOM   3621   CG ASP A 295      28.168 -20.997 -43.047  0.00  0.00           C 0
+ATOM   3620   CB ASP A 295      27.734 -21.701 -41.761  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0516
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.9327
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6376
+HEADER 5  - Mean B-factor of pocket residues  : 0.5203
+HEADER 6  - Hydrophobicity Score              : 10.6250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 337.6860
+HEADER 10 - Pocket volume (convex hull)       : 23.5568
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.2963
+ATOM   4983   CE LYS A 382      11.975 -24.332 -36.081  0.00  0.00           C 0
+ATOM   4191   CB SER A 332      13.800 -15.721 -35.911  0.00  0.00           C 0
+ATOM   4143  CD2 LEU A 329      15.953 -21.838 -35.709  0.00  0.00           C 0
+ATOM   4984   NZ LYS A 382      10.889 -24.267 -37.110  0.00  0.00           N 0
+ATOM   4199   CA THR A 333      11.823 -15.414 -31.678  0.00  0.00           C 0
+ATOM   4198    N THR A 333      12.907 -15.216 -32.640  0.00  0.00           N 0
+ATOM   4204  CG2 THR A 333      13.022 -17.417 -30.724  0.00  0.00           C 0
+ATOM   4190    O SER A 332      11.481 -14.728 -34.312  0.00  0.00           O 0
+ATOM   4059    O SER A 323      17.432 -20.650 -39.168  0.66  3.21           O 0
+ATOM   4192   OG SER A 332      14.794 -15.511 -36.907  0.00  0.00           O 0
+ATOM   4137   CA LEU A 329      16.763 -18.667 -34.718  0.00  0.00           C 0
+ATOM   4139    O LEU A 329      15.284 -17.610 -33.160  0.00  0.00           O 0
+ATOM   4189    C SER A 332      12.634 -14.853 -33.900  0.00  0.00           C 0
+ATOM   4930   CB ALA A 378      13.400 -21.406 -31.552  0.00  0.00           C 0
+ATOM   4982   CD LYS A 382      13.165 -25.081 -36.658  0.00  0.00           C 0
+ATOM   4980   CB LYS A 382      15.453 -26.048 -36.298  0.00  0.00           C 0
+ATOM   4061   OG SER A 323      15.642 -21.026 -41.940  0.00  0.00           O 0
+ATOM   4130   OG SER A 328      17.826 -16.885 -38.762  0.48  6.43           O 0
+ATOM   4068   CA ASN A 324      19.181 -22.811 -38.817  0.00  0.00           C 0
+ATOM   4071   CB ASN A 324      19.351 -24.311 -39.081  0.00  0.00           C 0
+ATOM   4067    N ASN A 324      18.904 -22.105 -40.060  0.47  1.09           N 0
+ATOM   4060   CB SER A 323      16.976 -21.148 -42.395  0.00  0.00           C 0
+TER
+END
