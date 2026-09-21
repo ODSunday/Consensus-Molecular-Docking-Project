@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0065
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9903
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4094
+HEADER 5  - Mean B-factor of pocket residues  : 0.8716
+HEADER 6  - Hydrophobicity Score              : 21.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 343.1454
+HEADER 10 - Pocket volume (convex hull)       : 14.6439
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0833
+ATOM   1994    O ASN B  48      32.104  -7.522  -9.556  0.48  7.50           O 0
+ATOM   2008   CA PRO B  50      28.823  -7.177  -6.305  0.00  0.00           C 0
+ATOM    380  ND2 ASN A  48      27.061 -13.524  -8.205  0.00  0.00           N 0
+ATOM   2012   CG PRO B  50      30.804  -7.652  -5.037  0.00  0.00           C 0
+ATOM   1997  ND2 ASN B  48      32.123 -10.273 -11.870  0.56  9.84           N 0
+ATOM    381  OD1 ASN A  48      25.743 -11.703  -8.046  0.53  5.36           O 0
+ATOM   2002    O LEU B  49      28.914  -6.100  -8.822  0.75  3.21           O 0
+ATOM   1998  OD1 ASN B  48      30.801  -8.617 -12.615  0.53  5.36           O 0
+ATOM   2023  CE2 TYR B  51      24.097  -8.413  -9.944  0.00  0.00           C 0
+ATOM    385    O LEU A  49      24.532 -10.135 -12.590  0.43  2.14           O 0
+ATOM   2011   CB PRO B  50      29.309  -7.725  -4.967  0.00  0.00           C 0
+ATOM    406  CE2 TYR A  51      27.874  -5.885 -11.827  0.00  0.00           C 0
+ATOM    377    O ASN A  48      24.851 -13.336 -11.039  0.00  0.00           O 0
+ATOM    395   CG PRO A  50      26.089 -13.130 -15.566  0.00  0.00           C 0
+ATOM    391   CA PRO A  50      25.992 -10.861 -14.791  0.00  0.00           C 0
+ATOM    394   CB PRO A  50      26.596 -11.756 -15.876  0.00  0.00           C 0
+TER
+END

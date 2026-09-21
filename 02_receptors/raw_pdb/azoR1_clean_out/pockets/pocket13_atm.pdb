@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0902
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9941
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5525
+HEADER 5  - Mean B-factor of pocket residues  : 0.8862
+HEADER 6  - Hydrophobicity Score              : -5.4444
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 329.4871
+HEADER 10 - Pocket volume (convex hull)       : 21.8423
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0400
+ATOM   1969  CD2 HIS B  45      30.087  -4.053 -18.121  0.00  0.00           C 0
+ATOM   1966    O HIS B  45      33.705  -5.836 -15.282  0.00  0.00           O 0
+ATOM    400    O TYR A  51      26.462  -8.044 -18.014  0.60  3.21           O 0
+ATOM   1700  OD2 ASP B  11      31.402  -5.588 -21.385  0.75  8.57           O 1
+ATOM   1998  OD1 ASN B  48      30.801  -8.617 -12.615  0.53  5.36           O 0
+ATOM   1967   CB HIS B  45      32.562  -3.696 -17.429  0.00  0.00           C 0
+ATOM    401   CB TYR A  51      26.790  -6.140 -15.469  0.00  0.00           C 0
+ATOM    404  CD2 TYR A  51      27.862  -6.186 -13.186  0.00  0.00           C 0
+ATOM    418   CA GLY A  53      27.965  -5.873 -21.307  0.00  0.00           C 0
+ATOM    397    N TYR A  51      26.208  -8.522 -15.281  0.00  0.00           N 0
+ATOM    600  NE2 GLN A  76      28.719 -13.704 -19.504  0.32  9.84           N 0
+ATOM    599   CD GLN A  76      27.934 -12.963 -20.281  0.00  0.00           C 0
+ATOM    439  OD2 ASP A  55      32.376 -11.229 -23.483  0.29  7.50           O 1
+ATOM    436   CB ASP A  55      30.144 -10.823 -24.205  0.00  0.00           C 0
+ATOM    432    N ASP A  55      29.663  -8.440 -24.559  0.42  2.19           N 0
+ATOM    440    N MET A  56      27.206  -9.720 -24.210  0.45  1.09           N 0
+ATOM    394   CB PRO A  50      26.596 -11.756 -15.876  0.00  0.00           C 0
+ATOM   1997  ND2 ASN B  48      32.123 -10.273 -11.870  0.56  9.84           N 0
+ATOM    601  OE1 GLN A  76      27.056 -12.228 -19.824  0.00  0.00           O 0
+ATOM    417    N GLY A  53      26.704  -6.349 -20.758  0.00  0.00           N 0
+TER
+END

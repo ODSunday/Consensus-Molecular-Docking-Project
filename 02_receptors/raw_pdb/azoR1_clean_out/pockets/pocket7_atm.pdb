@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1424
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9473
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5639
+HEADER 5  - Mean B-factor of pocket residues  : 0.8940
+HEADER 6  - Hydrophobicity Score              : -5.4444
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.0208
+HEADER 10 - Pocket volume (convex hull)       : 15.8969
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0800
+ATOM     83  OD2 ASP A  11      21.184  -9.537  -0.242  0.62  9.64           O 1
+ATOM    352  CD2 HIS A  45      20.637  -8.634  -3.937  0.00  0.00           C 0
+ATOM   2017    O TYR B  51      25.465  -6.215  -3.767  0.50  7.50           O 0
+ATOM    349    O HIS A  45      21.808 -13.132  -5.630  0.00  0.00           O 0
+ATOM   2056  OD2 ASP B  55      25.868 -11.328   3.225  0.00  0.00           O 1
+ATOM   2217  NE2 GLN B  76      29.925  -9.386  -0.653  0.00  0.00           N 0
+ATOM   2216   CD GLN B  76      29.321  -8.284  -0.213  0.00  0.00           C 0
+ATOM    381  OD1 ASN A  48      25.743 -11.703  -8.046  0.53  5.36           O 0
+ATOM   2218  OE1 GLN B  76      28.954  -7.378  -0.970  0.00  0.00           O 0
+ATOM   2011   CB PRO B  50      29.309  -7.725  -4.967  0.00  0.00           C 0
+ATOM    350   CB HIS A  45      19.746 -11.053  -4.256  0.00  0.00           C 0
+ATOM   2014    N TYR B  51      26.462  -6.705  -6.323  0.00  0.00           N 0
+ATOM   2018   CB TYR B  51      24.018  -6.638  -6.580  0.00  0.00           C 0
+ATOM   2021  CD2 TYR B  51      24.150  -8.172  -8.574  0.00  0.00           C 0
+ATOM   2035   CA GLY B  53      22.436  -6.377  -0.827  0.00  0.00           C 0
+ATOM   2034    N GLY B  53      23.329  -5.423  -1.466  0.00  0.00           N 0
+ATOM   2057    N MET B  56      25.781  -5.920   2.689  0.00  0.00           N 0
+ATOM   2053   CB ASP B  55      25.993  -8.957   3.438  0.00  0.00           C 0
+ATOM   2049    N ASP B  55      23.818  -7.846   3.150  0.39  1.09           N 0
+ATOM   2215   CG GLN B  76      29.092  -8.187   1.279  0.00  0.00           C 0
+TER
+END
